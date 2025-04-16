@@ -16,7 +16,8 @@ BusinessDay is a leading Nigerian business and financial daily newspaper. Busine
 By analyzing the emotional tone of the national media we uncover critical insights into the collective mood, public sentiment, and underlying economic and social tensions within the country.
 
 **Methodology:**
-* Data collection through through scraping of BusinessDay articles
-* Scraped BusinessDay articles from 2021 - 2025
-* Sentiment analysis approach:
-* Preprocessing steps: Data cleaning, tokenization, removing stop works
+* Data collection: through through scraping of BusinessDay articles:[https://businessday.ng/tag/bdlead/?amp]
+  * Scraped 819 BusinessDay articles from 2021 - 2025
+* Preprocessing steps:
+  *Data cleaning, tokenization, removing stop works
+* Scraping Tool used: **Selenium**
