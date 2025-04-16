@@ -34,18 +34,19 @@ By analyzing the emotional tone of the national media we uncover critical insigh
  **Sentiment Model**
  
     * Tool Used: TextBlob
-    
- **Polarity Scores are categorized into the following:**
-   * Positive
-   * Neutral
-   * Negative
-     
+      
  **Tools & Libraries**
    * Python 3.13
    * Selenium
    * Pandas
    * NLTK, TextBlob
    * Matplotlib, Seaborn
+     
+  **Polarity Scores are categorized into the following:**
+ 
+   * Positive
+   * Neutral
+   * Negative
 
 **Key Findings:**
  * Overall, about 6,604 articles were scraped, out of which 20.02% tended towards a Positive emotional tone, implying a good outlook of the nation's economy by this chunk.
