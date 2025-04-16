@@ -1,6 +1,7 @@
 # BusinessDay-Sentiment-Analysis
 
 **Project Overview**
+
 Sentiment Analysis on BusinessDay Newspaper to uncover the emotional tone of the populate on the nation's economy from 2021 to 2025. To analyze the polarity scores representing the emotional under-tone of the citizenry on Nigerian's economy within the aforementioned period.
 
 **Introduction:**
