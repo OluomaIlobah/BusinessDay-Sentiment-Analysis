@@ -50,9 +50,9 @@ By analyzing the emotional tone of the national media we uncover critical insigh
    * Negative
 
 **Key Findings:**
- * Overall, about 6,604 articles were scraped, out of which 20.02% tended towards a Positive emotional tone, implying a good outlook of the nation's economy by this chunk.
- * While, 78.45% was Neutral, indicating middle positioning of emotional tone of the articles(neither positive nor negative).
- * Only 1.5% was Negative.
+ * Overall, about 6,604 articles were scraped, out of which 20% tended towards a Positive emotional tone, implying a good outlook of the nation's economy by this chunk.
+ * While, 78% was Neutral, indicating middle positioning of emotional tone of the articles(neither positive nor negative).
+ * Only 2% was Negative.
 
 **Conclusion**
 
