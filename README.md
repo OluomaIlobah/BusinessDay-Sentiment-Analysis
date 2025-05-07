@@ -58,5 +58,5 @@ By analyzing the emotional tone of the national media we uncover critical insigh
 
   Based on our findings, the emotional tone from 2021-2025 is significantly Neutral, which is rather geared towards uncertainty and ongoing development in the nation's economy.
 
-** View full report in the attachments above.**
+**View full report in the attachments above**.
   
